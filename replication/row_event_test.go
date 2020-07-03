@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strconv"
 
+	"github.com/bufferx/decimal"
 	. "github.com/pingcap/check"
-	"github.com/shopspring/decimal"
 )
 
 type testDecodeSuite struct{}
