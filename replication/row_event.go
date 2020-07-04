@@ -12,7 +12,7 @@ import (
 	"github.com/bufferx/decimal"
 	"github.com/pingcap/errors"
 	"github.com/siddontang/go-log/log"
-	. "github.com/siddontang/go-mysql/mysql"
+	. "github.com/bufferx/go-mysql/mysql"
 	"github.com/siddontang/go/hack"
 )
 
